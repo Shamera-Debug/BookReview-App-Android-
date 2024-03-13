@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Review App</string>
+    <string name="search_error">Search results do not exist .</string>
+    <string name="review_save">Your review has been saved .</string>
+    <string name="save">SAVE</string>
+</resources>
